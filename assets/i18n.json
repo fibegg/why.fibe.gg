@@ -1,0 +1,1086 @@
+{
+  "en": {
+    "meta": {
+      "title": "Why Fibe?",
+      "description": "Whether you've never written code, run a research lab, or ship startups in your sleep — Fibe is the missing workshop. Pick your path.",
+      "keywords": "Fibe, fibe.gg, no-code, low-code, AI agent, Docker environments, founder, CTO, AI research, Genie, Marquee, Playground, dev environment, vibe coding",
+      "og_title": "Why Fibe — six paths into the same workshop",
+      "og_description": "No experience. Deep expertise. Researcher. Founder. CTO. Fibe meets each of you where you are.",
+      "og_site_name": "Fibe",
+      "twitter_title": "Why Fibe — six paths into the same workshop",
+      "twitter_description": "No experience. Deep expertise. Researcher. Founder. CTO. Fibe meets each of you where you are."
+    },
+    "nav": {
+      "reasons": "Reasons",
+      "business": "Business",
+      "expertise": "Expertise",
+      "automation": "Automation",
+      "competition": "Competition",
+      "research": "Research",
+      "ai_nativeness": "AI-Nativeness",
+      "fun": "Fun",
+      "try_fibe": "Try Fibe →",
+      "lang_switch_label": "Українська",
+      "lang_switch_href": "/uk/",
+      "lang_switch_hreflang": "uk"
+    },
+    "drawer": {
+      "reasons": "Reasons",
+      "business": "Business",
+      "expertise": "Expertise",
+      "automation": "Automation",
+      "competition": "Competition",
+      "research": "Research",
+      "ai_nativeness": "AI-Nativeness",
+      "fun": "Fun",
+      "try_fibe": "Try Fibe →",
+      "lang_switch_label": "Українська",
+      "lang_switch_href": "/uk/",
+      "lang_switch_hreflang": "uk"
+    },
+    "hero": {
+      "eyebrow": "<span class=\"eyebrow__dot\" aria-hidden=\"true\"></span>\n            Why <b>you</b>\n            <span class=\"eyebrow__swap\" aria-label=\"really, not just might\">\n              <span class=\"eyebrow__strike\" aria-hidden=\"true\">might</span>\n              <span class=\"eyebrow__really\">really</span>\n            </span>\n            want to try Fibe?",
+      "title": "Everyone needs a smartphone<br>\n            <span class=\"hero__title-em\">Many doubted in 2007</span>",
+      "lede": "Today we all depend on software.\n            Internet created apps which smartphones brought to our pockets.\n            Fibe tailors them precisely to what we need",
+      "cta_0": "Find your reasons to fibe",
+      "marquee": {
+        "landing_pages": "landing pages",
+        "crms": "CRMs",
+        "internal_tools": "internal tools",
+        "mvps": "MVPs",
+        "staging_environments": "staging environments",
+        "data_pipelines": "data pipelines",
+        "qa_sandboxes": "QA sandboxes",
+        "agent_experiments": "agent experiments",
+        "founder_demos": "founder demos",
+        "side_projects": "side projects",
+        "portfolio_sites": "portfolio sites",
+        "research_notebooks": "research notebooks",
+        "pr_previews": "PR previews",
+        "weekend_hacks": "weekend hacks"
+      },
+      "graph": {
+        "aria": "Many alternative paths converging into a single shortest path — the Fibe Way",
+        "start_label": "YOU",
+        "end_label": "SHIP",
+        "way_label": "Fibe Way",
+        "steps": [
+          "Sign up to Fibe",
+          "Set up an agent",
+          "Send a prompt"
+        ]
+      }
+    },
+    "matrix": {
+      "eyebrow": "What\n            <span class=\"eyebrow__swap\" aria-label=\"really, you will\">\n              <span class=\"eyebrow__strike\" aria-hidden=\"true\">could</span>\n              <span class=\"eyebrow__really\">will</span>\n            </span>\n            you do with <strong>Fibe</strong>?",
+      "title": "Many reasons to use a smartphone",
+      "sub": "Even more to use Fibe. Reasons depend on your background",
+      "axis_domain": "Domain expertise",
+      "axis_dev": "Development experience",
+      "tile": {
+        "fun": {
+          "tag": "Any",
+          "title": "For fun",
+          "sub": "Custom game, ad-hoc animation, throwaway experiment — on the go."
+        },
+        "problem": {
+          "tag": "No domain · No code",
+          "title": "Solve a problem",
+          "sub": "Landing, CRM, internal tool — without hiring an agency."
+        },
+        "sharpen": {
+          "tag": "No domain · Code",
+          "title": "Sharpen your tools",
+          "sub": "Work from mobile, create unique tools, automate everything — during a daily."
+        },
+        "product": {
+          "tag": "Domain · No code",
+          "title": "Funnel the expertise",
+          "sub": "Build <strong>that</strong> custom integration, make <strong>this</strong> validation fire — without becoming a founder (or?..)"
+        },
+        "compete": {
+          "tag": "Domain · Code",
+          "title": "Compete with <strong>Them</strong>",
+          "sub": "Fight network effect and unlimited resources with precision strikes and full focus — during the weekends."
+        },
+        "cto": {
+          "tag": "C-suite",
+          "title": "AI-native on the ground, not on paper",
+          "sub": "QA prepares a playground with a bug-fix. Products transform user stories to environments and PRs. Sentry issues become a URL with a fix — thats could become a reality, not just a pitch for a next round."
+        },
+        "research": {
+          "tag": "Researcher",
+          "title": "Visit The Edge",
+          "sub": "Provide agents with real environments in a perfect sandbox: granular permissions, tailored security, <strong>YOLO</strong> — assemble, not reinvent."
+        }
+      }
+    },
+    "persona": {
+      "fun": {
+        "eyebrow": "Have fun with Fibe",
+        "chip_tag": "Because, why not?",
+        "title": "Software,<br>for fun",
+        "lede_0": "You want a Discord bot or a Teamspeak server for your gaming group,\n              a custom Alias with your own rules,\n              a multi-player tower-defense game\n              or a birthday postcard with a bad joke for all to see?",
+        "lede_1": "Just let Fibe do it all for you:",
+        "list_0": "<strong>Simple chat</strong> — treat it like an always-on IT guy just for you.",
+        "list_1": "<strong>No hassle with servers or domains</strong> — you're just having fun.",
+        "list_2": "<strong>Bring your own ideas</strong> — or start from someone else's hack.",
+        "action_tag": "See it in action",
+        "action_title": "Weekend-shaped builds",
+        "action_sub": "No revenue model required. Just curiosity and an empty Saturday.",
+        "slide_0": {
+          "title": "A Discord bot for the gaming group",
+          "sub": "Stand it up Saturday, leave it running on a tiny host.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Learn a new framework, by using it",
+          "sub": "Clean room, throwaway env. Break it, fix it, try again.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "A birthday page for a friend",
+          "sub": "Custom URL, ten minutes, no DevOps required.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Spin up, destroy, no regrets",
+          "sub": "When the experiment ends, the bill ends.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "problem": {
+        "eyebrow": "Everyday business",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "OFF",
+        "switch_state_1": "OFF",
+        "chip_tag": "Software is not a problem to solve, anymore",
+        "title": "Embrace software —<br>assist your business",
+        "lede_0": "You want a landing page for your bakery, a CRM your customers can actually book through,\n              an inventory tracker for the warehouse, an internal tool that ends the Slack ping-pong —\n              and an agency just quoted you six figures?",
+        "lede_1": "Just let Fibe handle it:",
+        "list_0": "<strong>Pre-built recipes</strong> — landing pages, CRMs, portfolios, simple shops.",
+        "list_1": "<strong>No-code, UI-driven</strong> — achieve your goal without becoming an IT expert.",
+        "list_2": "<strong>Turnkey</strong> — fully managed infrastructure, a-Z.",
+        "list_3": "<strong>AI assistant</strong> — always ready to help as soon as you want to dive deeper.",
+        "action_tag": "See it in action",
+        "action_title": "Closer to your problem",
+        "action_sub": "Each cut is its own video on Rumble — pick the one that smells most like yours.",
+        "slide_0": {
+          "title": "Landing page in an afternoon",
+          "sub": "Anya rebuilds her bakery's site on a Saturday.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Your first real CRM",
+          "sub": "Replacing a 40-tab spreadsheet without writing code.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "An internal tool your team will use",
+          "sub": "A scheduling board that ends the Slack ping-pong.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Portfolio that actually ships",
+          "sub": "From Dribbble pile to live URL in one session.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "product": {
+        "eyebrow": "Channel your expertise",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "OFF",
+        "switch_state_1": "ON",
+        "chip_tag": "Domain knowledge — product's heart",
+        "title": "Your experience,<br>shaped as workflows",
+        "lede_0": "You know what dentists, truckers, architects, farmers <em>actually</em> need?\n              Or you're an illustrator, an animator, a sound designer —\n              and the engineering around your craft has always eaten your night?",
+        "lede_1": "You handle features, Fibe takes care of details:",
+        "list_0": "<strong>Talk to an AI assistant</strong> — plain language about your craft, your industry, your niche.",
+        "list_1": "<strong>See it run at a URL</strong> — your first customer, your first viewer.",
+        "list_2": "<strong>Iterate without fear</strong> — branch a copy, try a render, throw it away, try again.",
+        "action_tag": "See it in action",
+        "action_title": "Industries on the move",
+        "action_sub": "Real domains, real builders shipping with Fibe + their first AI assistant.",
+        "slide_0": {
+          "title": "Dental scheduling, end to end",
+          "sub": "Practice owner + AI assistant ship a real product.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Dispatch board for truckers",
+          "sub": "A coordinator's clipboard becomes a real app.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Architect ↔ client portal",
+          "sub": "Drawings, approvals, and invoicing in one place.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Field log for farms",
+          "sub": "Mud-proof tablets, mud-proof workflow.",
+          "cta": "▶ Play preview"
+        },
+        "slide_4": {
+          "title": "From sketch to render farm",
+          "sub": "An illustrator turns her style guide into a full video pipeline.",
+          "cta": "▶ Play preview"
+        },
+        "slide_5": {
+          "title": "A playable build, sent as a URL",
+          "sub": "Solo game dev drops the 4 GB ZIP for a link.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "sharpen": {
+        "eyebrow": "Squeeze maximum",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "ON",
+        "switch_state_1": "OFF",
+        "chip_tag": "Finish what you had never time for",
+        "title": "Perfect setup,<br>just for you,<br>during a daily",
+        "lede_0": "You can ship anything — except the things you actually wanted to ship for yourself. The e2e suite still on the TODO list. The self-host you keep almost-finishing. The pet project waiting on a free Saturday. Always fifteen minutes between meetings, never a clear afternoon?",
+        "lede_1": "Just borrow that time back:",
+        "list_0": "<strong>Finally finish that CI</strong> — the e2e suite, the deploy pipeline, the integration tests you always meant to wire up but never had a clear afternoon for.",
+        "list_1": "<strong>Self-host your own way</strong> — your own machine, your own GPU, your own rules. The exact environment <em>you</em> would set up, set up once and ready everywhere.",
+        "list_2": "<strong>Ship from your phone</strong> — pet projects, side bets, weekend ideas. From the train, the couch, or during a daily.",
+        "action_tag": "See it in action",
+        "action_title": "Workflows engineers steal",
+        "action_sub": "Short walkthroughs of the moves that pay back the most context-switching minutes.",
+        "slide_0": {
+          "title": "Any GitHub repo, ready in 30s",
+          "sub": "Clone, container, URL — three keystrokes.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Test suites in clean rooms",
+          "sub": "Tests blow up safely so prod never does.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Three branches, three environments",
+          "sub": "Compare feature bets side by side.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Your editor, your AI, our environments",
+          "sub": "Drive it with whatever agent you already use.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "compete": {
+        "eyebrow": "How to compete with <strong>Them</strong> using Fibe?",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "ON",
+        "switch_state_1": "ON",
+        "chip_tag": "Solo against giants",
+        "title": "Outship<br>the incumbents.",
+        "lede_0": "They have a hundred engineers, unlimited compute, a marketing budget the size of your runway — and no focus, no dedication, no vision anyone can actually point at. You have all three?",
+        "lede_1": "Just turn that asymmetry into a shipped product:",
+        "list_0": "<strong>You know what to build</strong> — years of thinking about it, days from shipping. They're still routing the proposal through three layers of approval.",
+        "list_1": "<strong>You know how to build it</strong> — the architecture, the trade-offs, the right calls already made in your head. No design committees, no rewrites.",
+        "list_2": "<strong>Brain beats headcount</strong> — engineering experience plus domain expertise, in one head, with Fibe handling the boring parts. The combination that's never had this kind of leverage before.",
+        "action_tag": "See it in action",
+        "action_title": "Solo teams running ahead",
+        "action_sub": "Operators with leverage you didn't have last year — how they actually run a week.",
+        "slide_0": {
+          "title": "Ten product bets, one operator",
+          "sub": "Parallel environments — and where to kill them.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "An AI swarm shipping features",
+          "sub": "Specialists per job, one ship date.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Continuous deploy in one command",
+          "sub": "Push → check → green light → live.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Fork a clean stack → head start",
+          "sub": "Skip the first 20% — pull a recipe someone else already debugged.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "cto": {
+        "eyebrow": "How to be AI-native on the ground, not on paper?",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "ON",
+        "switch_state_1": "ON",
+        "switch_state_2": "ON",
+        "chip_tag": "CTO &amp; head of eng.",
+        "title": "Stop the AI theatre.<br>Start the shipping.",
+        "lede_0": "The board demands AI-native. Investors demand AI-native. Your competitors are tweeting AI-native. And not one of them — not the consultants, not the analysts, not the LinkedIn keynotes — can tell you what AI-native <em>actually</em> means. The quarterly review is in six weeks. The strategy memo is overdue?",
+        "lede_1": "Just make it real on the ground:",
+        "list_0": "<strong>Show, don't tell</strong> — engineers spin up a playground for the bug-fix and post the link in Slack. Product turns a user story into a working PR overnight. Sentry issues come back as URLs with the fix already attached. Each one is a release note, not another roadmap promise.",
+        "list_1": "<strong>Stop renting your future</strong> — own the chat, the docs, the identity, the calls. Self-host on your hardware. The per-seat SaaS bill stops being a tax on every new hire. Your CFO finally has good news in the line item they've been avoiding for years.",
+        "list_2": "<strong>Walk in different</strong> — into the next board meeting, the next press cycle, the next investor call. Not with another transformation deck. With a live URL of what your team actually shipped this quarter. The buzzword stops being a threat — it becomes your demo.",
+        "action_tag": "See it in action",
+        "action_title": "Teams unblocked at scale",
+        "action_sub": "QA, Product, and Eng moving in parallel — without rebuilding your platform.",
+        "slide_0": {
+          "title": "QA on a fresh staging copy",
+          "sub": "Click → environment → bug found by lunch.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "PM previews on every PR",
+          "sub": "Two variants, one decision meeting.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Audit log, vault, 2FA",
+          "sub": "The boring done right, for compliance week.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Bring your own Docker hosts",
+          "sub": "Environments on your fleet, your network, your rules.",
+          "cta": "▶ Play preview"
+        },
+        "slide_4": {
+          "title": "Team chat on your hardware",
+          "sub": "Replace a per-seat SaaS tax with a few cents of compute.",
+          "cta": "▶ Play preview"
+        },
+        "slide_5": {
+          "title": "Single sign-on, no per-seat ransom",
+          "sub": "One login for every tool, owned by you.",
+          "cta": "▶ Play preview"
+        },
+        "slide_6": {
+          "title": "Wiki &amp; docs inside your walls",
+          "sub": "The team brain — not in someone else's cloud.",
+          "cta": "▶ Play preview"
+        },
+        "switch_corp": "Corporation"
+      },
+      "research": {
+        "eyebrow": "How to visit The Edge safely?",
+        "chip_tag": "Research lab",
+        "title": "Real systems.<br>Hard isolation.",
+        "lede_0": "Evaluating an agent on real software stops being safe the moment you let it touch\n              your own machine, your VPN, your secrets, your shared dev cluster?",
+        "lede_1": "Just hand it The Edge — and nothing more:",
+        "list_0": "<strong>Hard isolation, granular control</strong> — one environment per experiment, with permissions, network egress, mounts, secrets and resource caps you set per run. Hand the agent The Edge — and <em>nothing</em> more.",
+        "list_1": "<strong>Configure every agent per-experiment</strong> — skills, prompt, arguments, mounted files, tools allowed and tools blocked. Pin it in the recipe, reproduce it bit-for-bit, diff two runs in seconds.",
+        "list_2": "<strong>Swap LLM providers like batteries</strong> — local GPU, hosted, frontier, a private endpoint, last week's model versus this week's. Same experiment, same harness, different brain — compare with a single env variable.",
+        "action_tag": "See it in action",
+        "action_title": "Inside the lab",
+        "action_sub": "Real evaluations and benchmarks running on Fibe — every artifact captured.",
+        "slide_0": {
+          "title": "Evaluating an agent on a real repo",
+          "sub": "One environment, one agent, one verdict.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Reproducible benchmarks",
+          "sub": "Recipes as experiment manifests.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Two agents, side by side",
+          "sub": "Diffable runs in matched environments.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Capturing every artifact",
+          "sub": "Every run recorded; every diff searchable.",
+          "cta": "▶ Play preview"
+        }
+      }
+    },
+    "footer": {
+      "brand": "Fibe",
+      "family": {
+        "fibe_gg": "fibe.gg",
+        "why": "why",
+        "where": "where",
+        "when": "when",
+        "whats": "whats"
+      }
+    },
+    "solutions": {
+      "eyebrow": "Solutions",
+      "title": "Ten shapes the work takes",
+      "sub": "The six paths above end up in one (or more) of these. Each card is a real,\n            recognizable way to use Fibe — sorted on a quiet little dial from\n            <em>boring-but-essential</em> to <em>brand-new</em>.",
+      "card": {
+        "production-deployment": {
+          "title": "Production deployment",
+          "desc": "Run live workloads with zero-downtime updates and a quiet pager.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "staging-uat": {
+          "title": "Staging &amp; UAT",
+          "desc": "Isolated copies of production where QA and acceptance can break things safely.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "build-test-ci": {
+          "title": "Build &amp; test in CI",
+          "desc": "Full-stack environments wired into your pipeline — not green-box theatre.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "internal-tools": {
+          "title": "Internal tools",
+          "desc": "Dashboards, admin panels, the back-office stuff your team uses every day.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "software-distribution": {
+          "title": "Software distribution",
+          "desc": "Hand your customers a ready-to-run version of your product — without telling them about Docker.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "self-hosted-stacks": {
+          "title": "Self-hosted stacks",
+          "desc": "Run the open-source equivalents of your SaaS sprawl on your own hosts. Pay for compute, not seats.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "build-in-public": {
+          "title": "Build in public",
+          "desc": "A live URL for whatever you're shipping — viewers, customers, future hires watch the progress.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "ephemeral-environments": {
+          "title": "Ephemeral environments",
+          "desc": "An environment per branch or PR. Spins up on push, lives as long as it's useful, evaporates after.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "vibe-coding-on-steroids": {
+          "title": "Vibe coding on steroids",
+          "desc": "Instant cloud playgrounds, an AI assistant in the panel, a URL to show off — your idea, alive in ninety seconds.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        }
+      }
+    },
+    "capture": {
+      "eyebrow": "Capture this",
+      "title": "Capture this, don't let it slip",
+      "sub": "The boring fundamentals people miss in marketing copy — and the ones that decide\n            whether you'd actually run Fibe long-term.",
+      "card": {
+        "total-control": {
+          "tag": "01 · Where it runs",
+          "title": "Total control",
+          "list_0": "<strong>Managed service</strong> — sign in, ship, never think about ops.",
+          "list_1": "<strong>Or self-host the whole thing</strong> — laptop, home server, local GPU. Even Fibe never sees your code or your models.",
+          "list_2": "<strong>Or mix</strong> — our web app talking to your hardware, or vice-versa. Any combination.",
+          "kicker": "No Google in the loop. No Microsoft. The only third party is Fibe — and even that's opt-in.",
+          "more": "Read more →"
+        },
+        "flat-pricing": {
+          "tag": "02 · How you pay",
+          "title": "Flat fee per server",
+          "list_0": "<strong>One number per server</strong> — pick the box, pay the box. Whatever size, one flat fee.",
+          "list_1": "<strong>No per-seat anything</strong> — invite 5 teammates or 500. Same bill.",
+          "list_2": "<strong>Outgrew a tier?</strong> — just upgrade the server. New tier, same shape: one number.",
+          "kicker": "Your bill scales with hardware, not headcount. Predictable on day one, predictable in year three.",
+          "more": "Read more →"
+        },
+        "boring-core": {
+          "tag": "03 · What it actually is",
+          "title": "Boring core, AI on top",
+          "list_0": "<strong>The product is environments</strong> — real, full-stack, isolated Docker hosts. Click a button or spin them programmatically.",
+          "list_1": "<strong>Same surface everywhere</strong> — web UI, CLI, script, agent. All hitting the same APIs.",
+          "list_2": "<strong>AI is a feature, not the point</strong> — wire it in everywhere, or never. The product still ships.",
+          "kicker": "The boring part is what you actually use. The AI is what makes it five times faster.",
+          "more": "Read more →"
+        },
+        "local-parity": {
+          "tag": "04 · How it stays sane",
+          "title": "Run it locally first",
+          "list_0": "<strong>Plain <code>docker-compose.yml</code></strong> — Fibe is a thin wrapper, not a custom DSL. Your repo is the source of truth.",
+          "list_1": "<strong>Verify CI/CD on your laptop</strong> — run the whole pipeline locally. Only push to production once it's green.",
+          "list_2": "<strong>Same compose, anywhere</strong> — your laptop, Fibe, a teammate's workstation, an air-gapped customer site. Identical behaviour.",
+          "kicker": "Standard Docker. Standard Compose. No magic between them and you.",
+          "more": "Read more →"
+        }
+      }
+    },
+    "close": {
+      "eyebrow": "How Fibe pulls it off",
+      "title": "Stop reading.<br>\n            <span class=\"close__title-em\">Start shipping.</span>",
+      "sub": "Whichever path you picked, the next step is the same — one account, one workshop.\n            Spin up your first environment in under a minute.",
+      "cta_0": "Try Fibe →",
+      "cta_1": "Read the guide",
+      "bubble": {
+        "marquees": "Marquees",
+        "playspecs": "Playspecs",
+        "playgrounds": "Playgrounds",
+        "tricks": "Tricks",
+        "genies": "Genies",
+        "sdk": "SDK",
+        "cli": "CLI",
+        "mcp": "MCP",
+        "props": "Props",
+        "bazaar": "Bazaar",
+        "scrolls": "Scrolls"
+      },
+      "bubbles_aria": "How Fibe pulls it off"
+    }
+  },
+  "uk": {
+    "meta": {
+      "title": "Why Fibe?",
+      "description": "Whether you've never written code, run a research lab, or ship startups in your sleep — Fibe is the missing workshop. Pick your path.",
+      "keywords": "Fibe, fibe.gg, no-code, low-code, AI agent, Docker environments, founder, CTO, AI research, Genie, Marquee, Playground, dev environment, vibe coding",
+      "og_title": "Why Fibe — six paths into the same workshop",
+      "og_description": "No experience. Deep expertise. Researcher. Founder. CTO. Fibe meets each of you where you are.",
+      "og_site_name": "Fibe",
+      "twitter_title": "Why Fibe — six paths into the same workshop",
+      "twitter_description": "No experience. Deep expertise. Researcher. Founder. CTO. Fibe meets each of you where you are."
+    },
+    "nav": {
+      "reasons": "Reasons",
+      "business": "Business",
+      "expertise": "Expertise",
+      "automation": "Automation",
+      "competition": "Competition",
+      "research": "Research",
+      "ai_nativeness": "AI-Nativeness",
+      "fun": "Fun",
+      "try_fibe": "Try Fibe →",
+      "lang_switch_label": "English",
+      "lang_switch_href": "/",
+      "lang_switch_hreflang": "en"
+    },
+    "drawer": {
+      "reasons": "Reasons",
+      "business": "Business",
+      "expertise": "Expertise",
+      "automation": "Automation",
+      "competition": "Competition",
+      "research": "Research",
+      "ai_nativeness": "AI-Nativeness",
+      "fun": "Fun",
+      "try_fibe": "Try Fibe →",
+      "lang_switch_label": "English",
+      "lang_switch_href": "/",
+      "lang_switch_hreflang": "en"
+    },
+    "hero": {
+      "eyebrow": "<span class=\"eyebrow__dot\" aria-hidden=\"true\"></span>\n            Why <b>you</b>\n            <span class=\"eyebrow__swap\" aria-label=\"really, not just might\">\n              <span class=\"eyebrow__strike\" aria-hidden=\"true\">might</span>\n              <span class=\"eyebrow__really\">really</span>\n            </span>\n            want to try Fibe?",
+      "title": "Everyone needs a smartphone<br>\n            <span class=\"hero__title-em\">Many doubted in 2007</span>",
+      "lede": "Today we all depend on software.\n            Internet created apps which smartphones brought to our pockets.\n            Fibe tailors them precisely to what we need",
+      "cta_0": "Find your way",
+      "marquee": {
+        "landing_pages": "landing pages",
+        "crms": "CRMs",
+        "internal_tools": "internal tools",
+        "mvps": "MVPs",
+        "staging_environments": "staging environments",
+        "data_pipelines": "data pipelines",
+        "qa_sandboxes": "QA sandboxes",
+        "agent_experiments": "agent experiments",
+        "founder_demos": "founder demos",
+        "side_projects": "side projects",
+        "portfolio_sites": "portfolio sites",
+        "research_notebooks": "research notebooks",
+        "pr_previews": "PR previews",
+        "weekend_hacks": "weekend hacks"
+      },
+      "graph": {
+        "aria": "Many alternative paths converging into a single shortest path — the Fibe Way",
+        "start_label": "YOU",
+        "end_label": "SHIP",
+        "way_label": "Fibe Way",
+        "steps": [
+          "Sign up to Fibe",
+          "Set up an agent",
+          "Send a prompt"
+        ]
+      }
+    },
+    "matrix": {
+      "eyebrow": "What\n            <span class=\"eyebrow__swap\" aria-label=\"really, you will\">\n              <span class=\"eyebrow__strike\" aria-hidden=\"true\">could</span>\n              <span class=\"eyebrow__really\">will</span>\n            </span>\n            you do with <strong>Fibe</strong>?",
+      "title": "Many reasons to use a smartphone",
+      "sub": "Even more to use Fibe. Reasons depend on your background",
+      "axis_domain": "Domain expertise",
+      "axis_dev": "Development experience",
+      "tile": {
+        "fun": {
+          "tag": "Any",
+          "title": "For fun",
+          "sub": "Custom game, ad-hoc animation, throwaway experiment — on the go."
+        },
+        "problem": {
+          "tag": "No domain · No code",
+          "title": "Solve a problem",
+          "sub": "Landing, CRM, internal tool — without hiring an agency."
+        },
+        "sharpen": {
+          "tag": "No domain · Code",
+          "title": "Sharpen your tools",
+          "sub": "Work from mobile, create unique tools, automate everything — during a daily."
+        },
+        "product": {
+          "tag": "Domain · No code",
+          "title": "Funnel the expertise",
+          "sub": "Build <strong>that</strong> custom integration, make <strong>this</strong> validation fire — without becoming a founder (or?..)"
+        },
+        "compete": {
+          "tag": "Domain · Code",
+          "title": "Compete with <strong>Them</strong>",
+          "sub": "Fight network effect and unlimited resources with precision strikes and full focus — during the weekends."
+        },
+        "cto": {
+          "tag": "C-suite",
+          "title": "AI-native on the ground, not on paper",
+          "sub": "QA prepares a playground with a bug-fix. Products transform user stories to environments and PRs. Sentry issues become a URL with a fix — thats could become a reality, not just a pitch for a next round."
+        },
+        "research": {
+          "tag": "Researcher",
+          "title": "Visit The Edge",
+          "sub": "Provide agents with real environments in a perfect sandbox: granular permissions, tailored security, <strong>YOLO</strong> — assemble, not reinvent."
+        }
+      }
+    },
+    "persona": {
+      "fun": {
+        "eyebrow": "Have fun with Fibe",
+        "chip_tag": "Because, why not?",
+        "title": "Software,<br>for fun",
+        "lede_0": "You want a Discord bot or a Teamspeak server for your gaming group,\n              a custom Alias with your own rules,\n              a multi-player tower-defense game\n              or a birthday postcard with a bad joke for all to see?",
+        "lede_1": "Just let Fibe do it all for you:",
+        "list_0": "<strong>Simple chat</strong> — treat it like an always-on IT guy just for you.",
+        "list_1": "<strong>No hassle with servers or domains</strong> — you're just having fun.",
+        "list_2": "<strong>Bring your own ideas</strong> — or start from someone else's hack.",
+        "action_tag": "See it in action",
+        "action_title": "Weekend-shaped builds",
+        "action_sub": "No revenue model required. Just curiosity and an empty Saturday.",
+        "slide_0": {
+          "title": "A Discord bot for the gaming group",
+          "sub": "Stand it up Saturday, leave it running on a tiny host.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Learn a new framework, by using it",
+          "sub": "Clean room, throwaway env. Break it, fix it, try again.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "A birthday page for a friend",
+          "sub": "Custom URL, ten minutes, no DevOps required.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Spin up, destroy, no regrets",
+          "sub": "When the experiment ends, the bill ends.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "problem": {
+        "eyebrow": "Everyday business",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "OFF",
+        "switch_state_1": "OFF",
+        "chip_tag": "Software is not a problem to solve, anymore",
+        "title": "Embrace software —<br>assist your business",
+        "lede_0": "You want a landing page for your bakery, a CRM your customers can actually book through,\n              an inventory tracker for the warehouse, an internal tool that ends the Slack ping-pong —\n              and an agency just quoted you six figures?",
+        "lede_1": "Just let Fibe handle it:",
+        "list_0": "<strong>Pre-built recipes</strong> — landing pages, CRMs, portfolios, simple shops.",
+        "list_1": "<strong>No-code, UI-driven</strong> — achieve your goal without becoming an IT expert.",
+        "list_2": "<strong>Turnkey</strong> — fully managed infrastructure, a-Z.",
+        "list_3": "<strong>AI assistant</strong> — always ready to help as soon as you want to dive deeper.",
+        "action_tag": "See it in action",
+        "action_title": "Closer to your problem",
+        "action_sub": "Each cut is its own video on Rumble — pick the one that smells most like yours.",
+        "slide_0": {
+          "title": "Landing page in an afternoon",
+          "sub": "Anya rebuilds her bakery's site on a Saturday.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Your first real CRM",
+          "sub": "Replacing a 40-tab spreadsheet without writing code.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "An internal tool your team will use",
+          "sub": "A scheduling board that ends the Slack ping-pong.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Portfolio that actually ships",
+          "sub": "From Dribbble pile to live URL in one session.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "product": {
+        "eyebrow": "Channel your expertise",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "OFF",
+        "switch_state_1": "ON",
+        "chip_tag": "Domain knowledge — product's heart",
+        "title": "Your experience,<br>shaped as workflows",
+        "lede_0": "You know what dentists, truckers, architects, farmers <em>actually</em> need?\n              Or you're an illustrator, an animator, a sound designer —\n              and the engineering around your craft has always eaten your night?",
+        "lede_1": "You handle features, Fibe takes care of details:",
+        "list_0": "<strong>Talk to an AI assistant</strong> — plain language about your craft, your industry, your niche.",
+        "list_1": "<strong>See it run at a URL</strong> — your first customer, your first viewer.",
+        "list_2": "<strong>Iterate without fear</strong> — branch a copy, try a render, throw it away, try again.",
+        "action_tag": "See it in action",
+        "action_title": "Industries on the move",
+        "action_sub": "Real domains, real builders shipping with Fibe + their first AI assistant.",
+        "slide_0": {
+          "title": "Dental scheduling, end to end",
+          "sub": "Practice owner + AI assistant ship a real product.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Dispatch board for truckers",
+          "sub": "A coordinator's clipboard becomes a real app.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Architect ↔ client portal",
+          "sub": "Drawings, approvals, and invoicing in one place.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Field log for farms",
+          "sub": "Mud-proof tablets, mud-proof workflow.",
+          "cta": "▶ Play preview"
+        },
+        "slide_4": {
+          "title": "From sketch to render farm",
+          "sub": "An illustrator turns her style guide into a full video pipeline.",
+          "cta": "▶ Play preview"
+        },
+        "slide_5": {
+          "title": "A playable build, sent as a URL",
+          "sub": "Solo game dev drops the 4 GB ZIP for a link.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "sharpen": {
+        "eyebrow": "Squeeze maximum",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "ON",
+        "switch_state_1": "OFF",
+        "chip_tag": "Engineer-first",
+        "title": "Stop fighting<br>your laptop.",
+        "lede_0": "You can ship anything — except the things you actually wanted to ship for yourself. The e2e suite still on the TODO list. The self-host you keep almost-finishing. The pet project waiting on a free Saturday. Always fifteen minutes between meetings, never a clear afternoon?",
+        "lede_1": "Just borrow that time back:",
+        "list_0": "<strong>Finally finish that CI</strong> — the e2e suite, the deploy pipeline, the integration tests you always meant to wire up but never had a clear afternoon for.",
+        "list_1": "<strong>Self-host your own way</strong> — your own machine, your own GPU, your own rules. The exact environment <em>you</em> would set up, set up once and ready everywhere.",
+        "list_2": "<strong>Ship from your phone</strong> — pet projects, side bets, weekend ideas. From the train, the couch, or during a daily.",
+        "action_tag": "See it in action",
+        "action_title": "Workflows engineers steal",
+        "action_sub": "Short walkthroughs of the moves that pay back the most context-switching minutes.",
+        "slide_0": {
+          "title": "Any GitHub repo, ready in 30s",
+          "sub": "Clone, container, URL — three keystrokes.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Test suites in clean rooms",
+          "sub": "Tests blow up safely so prod never does.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Three branches, three environments",
+          "sub": "Compare feature bets side by side.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Your editor, your AI, our environments",
+          "sub": "Drive it with whatever agent you already use.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "compete": {
+        "eyebrow": "How to compete with <strong>Them</strong> using Fibe?",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "ON",
+        "switch_state_1": "ON",
+        "chip_tag": "Solo against giants",
+        "title": "Outship<br>the incumbents.",
+        "lede_0": "They have a hundred engineers, unlimited compute, a marketing budget the size of your runway — and no focus, no dedication, no vision anyone can actually point at. You have all three?",
+        "lede_1": "Just turn that asymmetry into a shipped product:",
+        "list_0": "<strong>You know what to build</strong> — years of thinking about it, days from shipping. They're still routing the proposal through three layers of approval.",
+        "list_1": "<strong>You know how to build it</strong> — the architecture, the trade-offs, the right calls already made in your head. No design committees, no rewrites.",
+        "list_2": "<strong>Brain beats headcount</strong> — engineering experience plus domain expertise, in one head, with Fibe handling the boring parts. The combination that's never had this kind of leverage before.",
+        "action_tag": "See it in action",
+        "action_title": "Solo teams running ahead",
+        "action_sub": "Operators with leverage you didn't have last year — how they actually run a week.",
+        "slide_0": {
+          "title": "Ten product bets, one operator",
+          "sub": "Parallel environments — and where to kill them.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "An AI swarm shipping features",
+          "sub": "Specialists per job, one ship date.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Continuous deploy in one command",
+          "sub": "Push → check → green light → live.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Fork a clean stack → head start",
+          "sub": "Skip the first 20% — pull a recipe someone else already debugged.",
+          "cta": "▶ Play preview"
+        }
+      },
+      "cto": {
+        "eyebrow": "How to be AI-native on the ground, not on paper?",
+        "switch_dev": "Development",
+        "switch_domain": "Domain",
+        "switch_state_0": "ON",
+        "switch_state_1": "ON",
+        "switch_state_2": "ON",
+        "chip_tag": "CTO &amp; head of eng.",
+        "title": "Stop the AI theatre.<br>Start the shipping.",
+        "lede_0": "The board demands AI-native. Investors demand AI-native. Your competitors are tweeting AI-native. And not one of them — not the consultants, not the analysts, not the LinkedIn keynotes — can tell you what AI-native <em>actually</em> means. The quarterly review is in six weeks. The strategy memo is overdue?",
+        "lede_1": "Just make it real on the ground:",
+        "list_0": "<strong>Show, don't tell</strong> — engineers spin up a playground for the bug-fix and post the link in Slack. Product turns a user story into a working PR overnight. Sentry issues come back as URLs with the fix already attached. Each one is a release note, not another roadmap promise.",
+        "list_1": "<strong>Stop renting your future</strong> — own the chat, the docs, the identity, the calls. Self-host on your hardware. The per-seat SaaS bill stops being a tax on every new hire. Your CFO finally has good news in the line item they've been avoiding for years.",
+        "list_2": "<strong>Walk in different</strong> — into the next board meeting, the next press cycle, the next investor call. Not with another transformation deck. With a live URL of what your team actually shipped this quarter. The buzzword stops being a threat — it becomes your demo.",
+        "action_tag": "See it in action",
+        "action_title": "Teams unblocked at scale",
+        "action_sub": "QA, Product, and Eng moving in parallel — without rebuilding your platform.",
+        "slide_0": {
+          "title": "QA on a fresh staging copy",
+          "sub": "Click → environment → bug found by lunch.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "PM previews on every PR",
+          "sub": "Two variants, one decision meeting.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Audit log, vault, 2FA",
+          "sub": "The boring done right, for compliance week.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Bring your own Docker hosts",
+          "sub": "Environments on your fleet, your network, your rules.",
+          "cta": "▶ Play preview"
+        },
+        "slide_4": {
+          "title": "Team chat on your hardware",
+          "sub": "Replace a per-seat SaaS tax with a few cents of compute.",
+          "cta": "▶ Play preview"
+        },
+        "slide_5": {
+          "title": "Single sign-on, no per-seat ransom",
+          "sub": "One login for every tool, owned by you.",
+          "cta": "▶ Play preview"
+        },
+        "slide_6": {
+          "title": "Wiki &amp; docs inside your walls",
+          "sub": "The team brain — not in someone else's cloud.",
+          "cta": "▶ Play preview"
+        },
+        "switch_corp": "Corporation"
+      },
+      "research": {
+        "eyebrow": "How to visit The Edge safely?",
+        "chip_tag": "Research lab",
+        "title": "Real systems.<br>Hard isolation.",
+        "lede_0": "Evaluating an agent on real software stops being safe the moment you let it touch\n              your own machine, your VPN, your secrets, your shared dev cluster?",
+        "lede_1": "Just hand it The Edge — and nothing more:",
+        "list_0": "<strong>Hard isolation, granular control</strong> — one environment per experiment, with permissions, network egress, mounts, secrets and resource caps you set per run. Hand the agent The Edge — and <em>nothing</em> more.",
+        "list_1": "<strong>Configure every agent per-experiment</strong> — skills, prompt, arguments, mounted files, tools allowed and tools blocked. Pin it in the recipe, reproduce it bit-for-bit, diff two runs in seconds.",
+        "list_2": "<strong>Swap LLM providers like batteries</strong> — local GPU, hosted, frontier, a private endpoint, last week's model versus this week's. Same experiment, same harness, different brain — compare with a single env variable.",
+        "action_tag": "See it in action",
+        "action_title": "Inside the lab",
+        "action_sub": "Real evaluations and benchmarks running on Fibe — every artifact captured.",
+        "slide_0": {
+          "title": "Evaluating an agent on a real repo",
+          "sub": "One environment, one agent, one verdict.",
+          "cta": "▶ Play preview"
+        },
+        "slide_1": {
+          "title": "Reproducible benchmarks",
+          "sub": "Recipes as experiment manifests.",
+          "cta": "▶ Play preview"
+        },
+        "slide_2": {
+          "title": "Two agents, side by side",
+          "sub": "Diffable runs in matched environments.",
+          "cta": "▶ Play preview"
+        },
+        "slide_3": {
+          "title": "Capturing every artifact",
+          "sub": "Every run recorded; every diff searchable.",
+          "cta": "▶ Play preview"
+        }
+      }
+    },
+    "footer": {
+      "brand": "Fibe",
+      "family": {
+        "fibe_gg": "fibe.gg",
+        "why": "why",
+        "where": "where",
+        "when": "when",
+        "whats": "whats"
+      }
+    },
+    "solutions": {
+      "eyebrow": "Solutions",
+      "title": "Ten shapes the work takes",
+      "sub": "The six paths above end up in one (or more) of these. Each card is a real,\n            recognizable way to use Fibe — sorted on a quiet little dial from\n            <em>boring-but-essential</em> to <em>brand-new</em>.",
+      "card": {
+        "production-deployment": {
+          "title": "Production deployment",
+          "desc": "Run live workloads with zero-downtime updates and a quiet pager.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "staging-uat": {
+          "title": "Staging &amp; UAT",
+          "desc": "Isolated copies of production where QA and acceptance can break things safely.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "build-test-ci": {
+          "title": "Build &amp; test in CI",
+          "desc": "Full-stack environments wired into your pipeline — not green-box theatre.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "internal-tools": {
+          "title": "Internal tools",
+          "desc": "Dashboards, admin panels, the back-office stuff your team uses every day.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "software-distribution": {
+          "title": "Software distribution",
+          "desc": "Hand your customers a ready-to-run version of your product — without telling them about Docker.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "self-hosted-stacks": {
+          "title": "Self-hosted stacks",
+          "desc": "Run the open-source equivalents of your SaaS sprawl on your own hosts. Pay for compute, not seats.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "build-in-public": {
+          "title": "Build in public",
+          "desc": "A live URL for whatever you're shipping — viewers, customers, future hires watch the progress.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "ephemeral-environments": {
+          "title": "Ephemeral environments",
+          "desc": "An environment per branch or PR. Spins up on push, lives as long as it's useful, evaporates after.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        },
+        "vibe-coding-on-steroids": {
+          "title": "Vibe coding on steroids",
+          "desc": "Instant cloud playgrounds, an AI assistant in the panel, a URL to show off — your idea, alive in ninety seconds.",
+          "scale_low": "Boring",
+          "scale_high": "Innovative",
+          "more": "Learn more →"
+        }
+      }
+    },
+    "capture": {
+      "eyebrow": "Capture this",
+      "title": "Capture this, don't let it slip",
+      "sub": "The boring fundamentals people miss in marketing copy — and the ones that decide\n            whether you'd actually run Fibe long-term.",
+      "card": {
+        "total-control": {
+          "tag": "01 · Where it runs",
+          "title": "Total control",
+          "list_0": "<strong>Managed service</strong> — sign in, ship, never think about ops.",
+          "list_1": "<strong>Or self-host the whole thing</strong> — laptop, home server, local GPU. Even Fibe never sees your code or your models.",
+          "list_2": "<strong>Or mix</strong> — our web app talking to your hardware, or vice-versa. Any combination.",
+          "kicker": "No Google in the loop. No Microsoft. The only third party is Fibe — and even that's opt-in.",
+          "more": "Read more →"
+        },
+        "flat-pricing": {
+          "tag": "02 · How you pay",
+          "title": "Flat fee per server",
+          "list_0": "<strong>One number per server</strong> — pick the box, pay the box. Whatever size, one flat fee.",
+          "list_1": "<strong>No per-seat anything</strong> — invite 5 teammates or 500. Same bill.",
+          "list_2": "<strong>Outgrew a tier?</strong> — just upgrade the server. New tier, same shape: one number.",
+          "kicker": "Your bill scales with hardware, not headcount. Predictable on day one, predictable in year three.",
+          "more": "Read more →"
+        },
+        "boring-core": {
+          "tag": "03 · What it actually is",
+          "title": "Boring core, AI on top",
+          "list_0": "<strong>The product is environments</strong> — real, full-stack, isolated Docker hosts. Click a button or spin them programmatically.",
+          "list_1": "<strong>Same surface everywhere</strong> — web UI, CLI, script, agent. All hitting the same APIs.",
+          "list_2": "<strong>AI is a feature, not the point</strong> — wire it in everywhere, or never. The product still ships.",
+          "kicker": "The boring part is what you actually use. The AI is what makes it five times faster.",
+          "more": "Read more →"
+        },
+        "local-parity": {
+          "tag": "04 · How it stays sane",
+          "title": "Run it locally first",
+          "list_0": "<strong>Plain <code>docker-compose.yml</code></strong> — Fibe is a thin wrapper, not a custom DSL. Your repo is the source of truth.",
+          "list_1": "<strong>Verify CI/CD on your laptop</strong> — run the whole pipeline locally. Only push to production once it's green.",
+          "list_2": "<strong>Same compose, anywhere</strong> — your laptop, Fibe, a teammate's workstation, an air-gapped customer site. Identical behaviour.",
+          "kicker": "Standard Docker. Standard Compose. No magic between them and you.",
+          "more": "Read more →"
+        }
+      }
+    },
+    "close": {
+      "eyebrow": "How Fibe pulls it off",
+      "title": "Stop reading.<br>\n            <span class=\"close__title-em\">Start shipping.</span>",
+      "sub": "Whichever path you picked, the next step is the same — one account, one workshop.\n            Spin up your first environment in under a minute.",
+      "cta_0": "Try Fibe →",
+      "cta_1": "Read the guide",
+      "bubble": {
+        "marquees": "Marquees",
+        "playspecs": "Playspecs",
+        "playgrounds": "Playgrounds",
+        "tricks": "Tricks",
+        "genies": "Genies",
+        "sdk": "SDK",
+        "cli": "CLI",
+        "mcp": "MCP",
+        "props": "Props",
+        "bazaar": "Bazaar",
+        "scrolls": "Scrolls"
+      },
+      "bubbles_aria": "How Fibe pulls it off"
+    }
+  }
+}
