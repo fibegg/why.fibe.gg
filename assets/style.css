@@ -2247,7 +2247,7 @@ body.is-drawer-open { overflow: hidden; }
   color: var(--fg-5);
   margin: 0 0.25rem;
 }
-.footer__social { display: flex; gap: 0.6rem; }
+.footer__social { display: flex; gap: 0.6rem; flex-wrap: wrap; justify-content: center; }
 .footer__icon {
   display: inline-flex; align-items: center; justify-content: center;
   width: 38px; height: 38px; border-radius: 50%;
@@ -2259,6 +2259,18 @@ body.is-drawer-open { overflow: hidden; }
   background: rgba(167,139,250,0.10);
   transform: translateY(-1px);
 }
+
+.footer__support {
+  display: inline-flex; align-items: center; gap: 0.6rem;
+  padding: 0.55rem 1rem;
+  border: 1px solid rgba(0, 87, 183, 0.45);
+  border-radius: 999px;
+  background: linear-gradient(180deg, rgba(0, 87, 184, 0.15) 0%, rgba(255, 221, 0, 0.08) 100%);
+}
+.footer__support .flag { font-size: 1.05em; }
+.footer__support strong { color: var(--fg-1); margin-right: 0.4rem; }
+.footer__support-sub { color: var(--fg-3); font-size: 0.92rem; }
+
 .footer__copy {
   font-size: 0.8rem;
   color: var(--fg-5);
